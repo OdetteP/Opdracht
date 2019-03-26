@@ -21,15 +21,13 @@ Zoals het volgende:
   - Je gebruikt de app maar één keer dus is het niet erg om de data eenmalig in te laden.
 
 - Albums opslaan in AlbumModels
- - Geeft meer mogelijkheden in de toekomst om variabele  die er bijkomen eenvoudig toe te voegen. Nu het project zo klein is, is dit niet
-   erg maar bij een groter project zeer verstandig.
+  - Geeft meer mogelijkheden in de toekomst om variabele  die er bijkomen eenvoudig toe te voegen. Nu het project zo klein is, is dit niet erg maar bij een groter project zeer verstandig.
 
 - Aparte help classe bij het helpen van de API calls
-  - Om het overzicht te bewaren in de activiteit zou het handig zijn geweest om de API calls in een aparte classe op te nemen. Dit is 
-    vooral verstandig als het een groot project omvat.
+  - Om het overzicht te bewaren in de activiteit zou het handig zijn geweest om de API calls in een aparte classe op te nemen. Dit is vooral verstandig als het een groot project omvat.
 
 - Design verbeteren
- - Zo goed mogelijk gewerkt met de beperkingen van de content.
+  - Zo goed mogelijk gewerkt met de beperkingen van de content.
 
  
  Ik heb ongeveer 12 a 13 uur gewerkt aan dit project. 
