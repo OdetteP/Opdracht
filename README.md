@@ -1,10 +1,4 @@
-# Opdracht-MediaMonks-
-
-Odette Oosterkamp
-
 Opmerkingen 
-
-Bedankt voor jullie opdracht. Ik vond het erg leuk om te doen!
 
 De zijn een aantal punten waarvan ik weet dat het ook op een andere manier kan worden gedaan.
 
@@ -30,7 +24,3 @@ Zoals het volgende:
 
 - Design verbeteren
   - Zo goed mogelijk gewerkt met de beperkingen van de content.
-
- 
- Ik heb ongeveer 12 a 13 uur gewerkt aan dit project. 
-
